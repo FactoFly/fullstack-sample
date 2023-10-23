@@ -1,13 +1,13 @@
 # Factofly Fullstack Sample Tasks
 ## Project: Pokemon Manager API
 
-### Requirements
+### Requirements 💡
 - **Frontend framework**: ReactJS
 - **Database**: PostgreSQL
 - **Language**: TypeScript (Node.js)
 - **Backend framework**: [Apollo GraphQL](https://www.apollographql.com/), [Next.js](https://nextjs.org/) & [Prisma (ORM)](https://www.prisma.io/)
 
-### Notes
+### Notes 📝
 The scope of this sample project comes in two parts:
 
 1. Convert the desings to a Frontend template
@@ -18,7 +18,7 @@ The orginal Pokemon data is found at [PokeAPI](https://pokeapi.co/docs/v2)
 ### Designs ✏️
 Create the templates with the following desings to complete the task bellow [LINK TO DESIGNS](https://xd.adobe.com/view/a378e86b-36b5-4514-a049-f60fa55b2563-f62b/)
 
-### Tasks 📝
+### Tasks ✅
 - Create an API which will have the following features:
   - Basic authentication (You need to be logged in to add/edit/delete)
   - A list of paginated Pokemons (each item should contain: name, height, weight and image). The result should be:
