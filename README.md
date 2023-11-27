@@ -16,9 +16,12 @@ The scope of this sample project comes in two parts:
 The orginal Pokemon data is found at [PokeAPI](https://pokeapi.co/docs/v2)
 
 ### Designs ✏️
-Create the templates with the following desings to complete the task bellow:
+Create the templates with the following designs to complete the task bellow:
 
+#### Search Page
 ![image](https://github.com/FactoFly/fullstack-sample/assets/104838081/3b75bd15-c465-4ecc-b18c-d99a7f0fdcc7)
+
+#### Detail Page
 ![image](https://github.com/FactoFly/fullstack-sample/assets/104838081/fac29243-10fa-43f2-a46c-8b164230afe4)
 
 
