@@ -10,13 +10,17 @@
 ### Notes 📝
 The scope of this sample project comes in two parts:
 
-1. Convert the desings to a Frontend template
+1. Convert the designs to a Frontend template
 2. Handle Pokemon data and expose routes that let clients interact with it in the way that is discribed below.
 
 The orginal Pokemon data is found at [PokeAPI](https://pokeapi.co/docs/v2)
 
 ### Designs ✏️
-Create the templates with the following desings to complete the task bellow [LINK TO DESIGNS](https://xd.adobe.com/view/a378e86b-36b5-4514-a049-f60fa55b2563-f62b/)
+Create the templates with the following desings to complete the task bellow:
+
+![image](https://github.com/FactoFly/fullstack-sample/assets/104838081/3b75bd15-c465-4ecc-b18c-d99a7f0fdcc7)
+![image](https://github.com/FactoFly/fullstack-sample/assets/104838081/fac29243-10fa-43f2-a46c-8b164230afe4)
+
 
 ### Tasks ✅
 - Create an API which will have the following features:
